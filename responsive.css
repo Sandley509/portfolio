@@ -4,6 +4,13 @@ body {
     padding: 0px;
 }
 
+/* Extra small devices (phones, less than 576px) */
+@media (max-width: 575.98px) {
+    .headerComponents{
+        margin-top: 40px;       
+    }
+}
+
 /* Tablets (481px to 768px) */
 @media (min-width: 481px) and (max-width: 768px) {
     body {
